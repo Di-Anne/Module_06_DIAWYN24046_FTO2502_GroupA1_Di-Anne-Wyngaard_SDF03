@@ -23,7 +23,28 @@ img{
 }
 
 .profile-image img{
+    display:inline-block;
     border: 10px solid #49907b;
     border-radius: 50%;
     width: 15%;
+    float: left;
+}
+
+.profile-user-settings .profile-stats .profile-bio{
+    float: right;
+    margin-left: 50%;
+}
+
+.profile-user-settings{
+    display: flex;
+    margin-left: 20%;
+}
+
+.profile-stats ul{
+    display: flex;
+    margin-left: 20%;
+    list-style-type: none;
+}
+.profile-bio{
+    margin-left: 20%;
 }
