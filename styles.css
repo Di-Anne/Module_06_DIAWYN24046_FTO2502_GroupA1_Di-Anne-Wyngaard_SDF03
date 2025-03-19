@@ -40,6 +40,10 @@ img{
     margin-left: 20%;
 }
 
+.profile-user-settings h1{
+    font-weight: lighter;
+}
+
 .profile-stats ul{
     display: flex;
     margin-left: 20%;
@@ -48,3 +52,4 @@ img{
 .profile-bio{
     margin-left: 20%;
 }
+
