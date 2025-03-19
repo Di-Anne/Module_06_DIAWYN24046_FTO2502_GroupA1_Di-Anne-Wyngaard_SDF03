@@ -18,6 +18,12 @@ body {
     padding-bottom: 3rem;
 }
 
-img {
+img{
     display: block;
+}
+
+.profile-image img{
+    border: 10px solid #49907b;
+    border-radius: 50%;
+    width: 15%;
 }
